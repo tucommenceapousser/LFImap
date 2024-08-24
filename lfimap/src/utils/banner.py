@@ -21,7 +21,7 @@ class BannerHelpFormatter(argparse.HelpFormatter):
                                      | |    
                                      |_|    
 
-                                - by @h4nsmach1ne\n\n\n"""
+                                - by @trhacknon\n\n\n"""
 
         # Add the banner to the help message
         return banner + help_text
